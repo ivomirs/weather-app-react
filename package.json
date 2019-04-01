@@ -2,8 +2,10 @@
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "weather-app-react",
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
